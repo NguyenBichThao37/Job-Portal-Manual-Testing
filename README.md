@@ -39,7 +39,7 @@ The testing scope includes:
 ## Testing Tool
 
 - Microsoft Excel
-- Microsoft Word
-- Git
+- SQL Server
 - GitHub
+
 
